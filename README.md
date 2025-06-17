@@ -70,7 +70,7 @@
 <br/>
 <div align=center>
 
-  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanlynn-aung&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="han lynn aung top languanges" />
+  <img width=520 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanlynn-aung&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="han lynn aung top languanges" />
     
   <img width=520 src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="han lynn aung stats" />
  <br/>

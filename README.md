@@ -75,7 +75,7 @@
   <img width=520 src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="han lynn aung stats" />
  <br/>
  
- [![GitHub Streak](https://streak-stats.demolab.com?user=hanlynn-aung&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=hanlynn-aung&theme=dark)](https://git.io/streak-stats)
  <br/>
    
 </div>

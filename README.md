@@ -143,7 +143,7 @@ public class HanLynnAung implements Developer {
 **🎯 Key Achievements:**
 - **🏢 Enterprise Integration**: Delivered fully functional system integrating **G&G, Capital, and Panamax** companies
 - **📊 Data Accuracy Enhancement**: Improved reporting accuracy by **95%**, earning recognition from product, data, and finance teams
-- **👥 Successful Mentorship**: Guided **2+ management trainees and interns**, contributing to their professional growth
+- **👥 Successful Mentorship**: Guided **2+ interns**, contributing to their professional growth
 - **🚀 Performance Optimization**: Enhanced system efficiency and reduced processing time by **60%**
 - **✅ Quality Delivery**: Maintained **100% on-time delivery** record without compromising quality standards
 

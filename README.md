@@ -80,6 +80,82 @@ public class HanLynnAung implements Developer {
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" alt="Rocket Launch" width="1000" />
 </div>
 
+## 💼 Professional Experience & Impact
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/000000/api.png" alt="API" width="60"/>
+        <br><strong>15+ APIs Developed</strong>
+        <br><sub>High-performance backend systems</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/000000/integration.png" alt="Integration" width="60"/>
+        <br><strong>Multi-Platform Integration</strong>
+        <br><sub>Seamless system connectivity</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/000000/mentor.png" alt="Mentorship" width="60"/>
+        <br><strong>Team Leadership</strong>
+        <br><sub>Mentored 10+ developers</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🏗️ **Edible Oil E-Governance System**
+*Enterprise-scale government digitization project*
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Integration-02F7E8?style=for-the-badge&logo=integration&logoColor=white" />
+</div>
+
+**🎯 Key Achievements:**
+- **🔗 Multi-Platform Integration**: Successfully integrated with **4 major systems** (Taw Win Akariz, CTZ Pay, Panamax) improving operational efficiency by **40%**
+- **📊 Data Standardization**: Implemented robust data standardization across platforms, reducing data inconsistencies by **85%**
+- **📈 Quota Tracking System**: Developed real-time tracking for merchant quotas serving **1000+ merchants** with 99.9% accuracy
+- **📋 Advanced Reporting**: Built comprehensive reporting system for merchants, retailers, and households enabling data-driven decisions
+- **⏰ On-Time Delivery**: Delivered all project milestones on schedule while maintaining high-quality standards
+
+**🛠️ Technical Responsibilities:**
+- Architected and developed **RESTful APIs** for core system functionality
+- Designed scalable **quota management system** with real-time updates
+- Implemented **data validation and standardization** protocols
+- Led **system integration** efforts across multiple payment platforms
+- Collaborated with **QA teams** for comprehensive testing and quality assurance
+
+---
+
+### 🎁 **Loyalty & Rewards Point System**
+*Multi-company rewards platform with advanced analytics*
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-FF9900?style=for-the-badge&logo=microservices&logoColor=white" />
+</div>
+
+**🎯 Key Achievements:**
+- **🏢 Enterprise Integration**: Delivered fully functional system integrating **G&G, Capital, and Panamax** companies
+- **📊 Data Accuracy Enhancement**: Improved reporting accuracy by **95%**, earning recognition from product, data, and finance teams
+- **👥 Successful Mentorship**: Guided **5+ management trainees and interns**, contributing to their professional growth
+- **🚀 Performance Optimization**: Enhanced system efficiency and reduced processing time by **60%**
+- **✅ Quality Delivery**: Maintained **100% on-time delivery** record without compromising quality standards
+
+**🛠️ Technical Responsibilities:**
+- Developed **scalable APIs** for loyalty point management and redemption
+- Implemented **cross-platform data synchronization** for seamless user experience
+- Built **comprehensive reporting dashboard** with real-time analytics
+- Conducted **thorough QA collaboration** ensuring robust system performance
+- Established **knowledge sharing sessions** for team skill development
+
+---
+
 ## 🌟 Professional Highlights
 
 <div align="center">
@@ -99,6 +175,11 @@ public class HanLynnAung implements Developer {
         <img src="https://img.icons8.com/color/96/000000/api.png" alt="API" width="60"/>
         <br><strong>API Architecture</strong>
         <br><sub>RESTful & GraphQL</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/color/96/000000/leadership.png" alt="Leadership" width="60"/>
+        <br><strong>Technical Leadership</strong>
+        <br><sub>Mentoring & Team Growth</sub>
       </td>
     </tr>
   </table>
@@ -249,13 +330,22 @@ public class HanLynnAung implements Developer {
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🚀 Microservices E-Commerce</h3>
+        <h3 align="center">🏛️ E-Governance Oil Distribution</h3>
         <div align="center">  
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
         </div>
-        <p align="center">Scalable microservices architecture with Spring Boot, Redis, Docker, and Kubernetes</p>
+        <p align="center">Government digitization system with multi-platform integration, serving 1000+ merchants with real-time quota tracking</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎁 Multi-Company Loyalty Platform</h3>
+        <div align="center">  
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+        </div>
+        <p align="center">Enterprise rewards system integrating multiple companies with advanced analytics and 95% improved data accuracy</p>
       </td>
     </tr>
   </table>
@@ -293,6 +383,11 @@ public class HanLynnAung implements Developer {
 </div>
 
 ## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+  <h3>💼 Open to: Full-time opportunities • Freelance projects • Technical collaborations</h3>
+  <h4>⚡ Response time: Within 24 hours • 🌍 Available for remote work</h4>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hanlynn-aung/" target="_blank">
@@ -342,6 +437,11 @@ public class HanLynnAung implements Developer {
         <img src="https://img.icons8.com/color/96/000000/learning.png" alt="Learning" width="60"/>
         <br><strong>Tech Leadership</strong>
         <br><sub>Mentoring & Speaking</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/000000/cloud.png" alt="Cloud" width="60"/>
+        <br><strong>Cloud Architecture</strong>
+        <br><sub>AWS Solutions Architect</sub>
       </td>
     </tr>
   </table>

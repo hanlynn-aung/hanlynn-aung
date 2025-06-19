@@ -111,9 +111,8 @@ public class HanLynnAung implements Developer {
         <h3>🔭 Current Focus Areas</h3>
         <div align="left">
           <p>🏗️ <strong>Microservices Architecture</strong> - Building scalable distributed systems</p>
-          <p>⚛️ <strong>React.js Ecosystem</strong> - Modern frontend development</p>
-          <p>☁️ <strong>Cloud Technologies</strong> - AWS, Docker, Kubernetes</p>
-          <p>🔧 <strong>DevOps Practices</strong> - CI/CD, Infrastructure as Code</p>
+          <p>⚛️ <strong>React.js Ecosystem</strong> - Learning Modern frontend development</p>
+          <p>☁️ <strong>Cloud Technologies</strong> - Learning AWS, Docker, Kubernetes</p>
           <p>🌱 <strong>Open Source</strong> - Contributing to community projects</p>
           <p>📚 <strong>System Design</strong> - Scalable architecture patterns</p>
         </div>
@@ -153,7 +152,7 @@ public class HanLynnAung implements Developer {
   <br><br>
   
   ### ⚙️ DevOps & Tools
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,jenkins,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,jenkins,linux&theme=dark" />
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -210,7 +209,7 @@ public class HanLynnAung implements Developer {
 ## 🎨 Skills Visualization
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hanlynnaung&theme=tokyonight&bg_color=0D1117&title_color=02F7E8&text_color=ffffff&border_color=30363d&border_radius=10" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hanlynn-aung&theme=tokyonight&bg_color=0D1117&title_color=02F7E8&text_color=ffffff&border_color=30363d&border_radius=10" alt="WakaTime Stats" />
 </div>
 
 ## 🌟 Featured Projects

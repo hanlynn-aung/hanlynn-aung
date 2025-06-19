@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=02F7E8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+Enthusiast+%E2%98%95;Building+Scalable+Solutions+%F0%9F%8C%9F;From+Myanmar+%F0%9F%87%B2%F0%9F%87%B2+with+%E2%9D%A4%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%93%88" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=13&duration=3000&pause=1000&color=02F7E8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+Enthusiast+%E2%98%95;Building+Scalable+Solutions+%F0%9F%8C%9F;From+Myanmar+%F0%9F%87%B2%F0%9F%87%B2+with+%E2%9D%A4%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%93%88" alt="Typing SVG" />
   </a>
 </div>
 

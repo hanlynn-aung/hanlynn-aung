@@ -1,89 +1,163 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hanlynn-aung.hanlynn-aung" />
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=02F7E8&center=true&vCenter=true&random=true&width=450&lines=Hi+there!👋;++I'm+Han+Lynn+Aung" alt="Hello!" /></a>
-</h1>
-<br>
-
-<h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&duration=3000&pause=1000&color=02F7E8&center=true&vCenter=true&random=false&width=435&lines=A+Passionate+Java+Backend+Developer👨‍💻;++from+Myanmar🇲🇲" alt="Welcome!" /></a>
-</h3>
-<br>
-<img align="right" alt="Coding" width="100%" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanlynn-aung&label=Profile%20views&color=0e75b6&style=flat" alt="hanlynn-aung" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanlynn-aung" alt="hanlynn-aung" /></a> </p>
-
 <div align="center">
-  
-  🔭 I’m currently working on **random stuffs** 🛠️  
-  
-  🌱 I’m currently learning **React.js** 📚
- 
-  💬 Ask me about **Java and Spring** 💡
-  
-  📫 How to reach me [hanlynnaung1997@gmail.com](mailto:hanlynnaung1997@gmail.com) 📧
-  
-  📄 Know about my experiences [here](https://www.canva.com/design/DAFZuefj16I/Y1LyzENYZu82GBb7GHu3Cg/edit?utm_content=DAFZuefj16I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 📝
- 
-  ⚡ Fun fact: **Defy yours limits!** 🌟
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Han%20Lynn%20Aung&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
-<h3 align="center">Connect with me:</h3>
 <div align="center">
-  
-<a href="https://www.linkedin.com/in/hanlynn-aung/" target="blank">
-<img align="center" src="https://user-images.githubusercontent.com/99184393/188185026-93637cf8-67e9-439a-b33a-6feba7b8bd21.png" alt="https://www.linkedin.com/in/hanlynn-aung/" height="40" width="40" /></a>
-
-<a href="https://m.facebook.com/profile.php/?id=100010450033197" target="blank">
-<img align="center" src="https://user-images.githubusercontent.com/30932899/75636582-41bf8200-5c20-11ea-9b11-4cf0350ec812.png" alt="https://www.facebook.com/hanlynnaung.net/" height="40" width="40" /></a>
-
-<a href="https://discord.gg/natrix_h" target="blank">
-<img align="center" src="https://repository-images.githubusercontent.com/423180394/51fb7f2b-0bb0-4c3e-a06c-840fa3a910eb" alt="natrix_h" height="40" width="40" /></a>
-
-<a href="https://medium.com/@hanlynnaung1997" target="blank">
-<img align="center" src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" alt="@hanlynnaung1997" height="40" width="40" /></a>
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hanlynn-aung.hanlynn-aung&color=0891b2&style=flat-square&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=hanlynn-aung&label=Profile%20views&color=0891b2&style=flat-square" alt="hanlynn-aung" />
 </div>
 
 <br>
 
-<h2 align="center">Languages and Tools:</h2>
-<br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,javascript,mongodb,mysql,docker" /><br>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" /><br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=02F7E8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+Enthusiast+%E2%98%95;Building+Scalable+Solutions+%F0%9F%8C%9F;From+Myanmar+%F0%9F%87%B2%F0%9F%87%B2+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+</div>
+
+<br>
+
+## 🎯 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```java
+public class HanLynnAung {
+    private String name = "Han Lynn Aung";
+    private String role = "Java Backend Developer";
+    private String location = "Myanmar 🇲🇲";
+    private String[] currentFocus = {
+        "Spring Boot", "Microservices", 
+        "React.js", "System Design"
+    };
     
+    public String getAmbition() {
+        return "Building scalable solutions that make a difference!";
+    }
+    
+    public boolean isAvailableForOpportunities() {
+        return true;
+    }
+}
+```
+
+<br clear="right"/>
+
+## 🚀 What I'm Up To
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanlynn-aung&repo=spring-boot-projects&theme=tokyonight&border_radius=10" />
+      </td>
+      <td align="center" width="50%">
+        <h3>🔭 Current Projects</h3>
+        <p>🛠️ Building microservices architecture</p>
+        <p>📚 Learning React.js ecosystem</p>
+        <p>🌱 Exploring cloud technologies</p>
+        <p>💡 Contributing to open source</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 💻 Tech Arsenal
+
+<div align="center">
+  <h3>🎯 Backend Mastery</h3>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,hibernate" />
+  <br><br>
+  
+  <h3>🗄️ Database & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,docker" />
+  <br><br>
+  
+  <h3>🌐 Frontend & Others</h3>
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap,tailwind" />
+  <br><br>
+  
+  <h3>⚙️ Development Tools</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,intellij,git,github,postman,linux" />
+</div>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanlynn-aung&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
 </div>
 
 <div align="center">
-  <h2>🏆 My Contributions 🏆</h2>
-  <br>
+  <img src="https://streak-stats.demolab.com/?user=hanlynn-aung&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<br>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hanlynn-aung&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
   <img alt="snake eating my contributions" src="https://github.com/hanlynn-aung/hanlynn-aung/blob/output/github-contribution-grid-snake-dark.svg" />
-  
-  <br/><br/><br/>
 </div>
-<hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br/>
-<div align=center>
+## 🤝 Let's Connect!
 
-  <img width=520 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanlynn-aung&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="han lynn aung top languanges" />
-    
-  <img width=520 src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="han lynn aung stats" />
- <br/>
- 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=hanlynn-aung&theme=dark)](https://git.io/streak-stats)
- <br/>
-   
+<div align="center">
+  <a href="https://www.linkedin.com/in/hanlynn-aung/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hanlynnaung1997@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://m.facebook.com/profile.php/?id=100010450033197" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://discord.gg/natrix_h" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://medium.com/@hanlynnaung1997" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
 </div>
-<br/><br/>
-<hr/>
 
-<h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=450&height=90&lines=Much+appreciated+for+dropping+by%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Feel+free+to+hit+me+up+on+LinkedIn%F0%9F%8C%A0;Life+comprises+10%25+Circumstance%F0%9F%92%AA%F0%9F%8F%BC;+And+90%25+Our+Stance%F0%9F%8C%9F" alt="Grateful for your visit!" /></a>
-</h3>
+<br>
 
-<br/>
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanlynn-aung&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <h3>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=02F7E8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+open+to+new+opportunities+%F0%9F%8C%9F" alt="Closing message" />
+    </a>
+  </h3>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>

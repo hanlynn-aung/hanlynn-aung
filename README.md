@@ -161,9 +161,12 @@ public class HanLynnAung implements Developer {
   <br><br>
   
   ### 🛠️ Development Environment
-  <img src="https://skillicons.dev/icons?i=vscode,postman,intellij&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" height="50" />
   <br>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   

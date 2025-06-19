@@ -55,7 +55,9 @@ public class HanLynnAung {
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanlynn-aung&theme=tokyonight&border_radius=10" />
+        <a href="https://hanlynnaung-portfolio-ky6ft6bnj-han-lynn-aung.vercel.app/" target="_blank">
+          <img src="./Han_Lynn_Aung_portfolio.png" alt="Han Lynn Aung Portfolio" style="border-radius: 10px; max-width: 100%; height: auto;" />
+        </a>
       </td>
       <td align="center" width="50%">
         <h3>🔭 Current Projects</h3>

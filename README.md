@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=13&duration=3000&pause=1000&color=02F7E8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+Enthusiast+%E2%98%95;Building+Scalable+Solutions+%F0%9F%8C%9F;From+Myanmar+%F0%9F%87%B2%F0%9F%87%B2+with+%E2%9D%A4%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%93%88" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=02F7E8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+Enthusiast+%E2%98%95;Building+Scalable+Solutions+%F0%9F%8C%9F;From+Myanmar+%F0%9F%87%B2%F0%9F%87%B2+with+%E2%9D%A4%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%93%88" alt="Typing SVG" />
   </a>
 </div>
 
@@ -342,7 +342,7 @@ public class HanLynnAung implements Developer {
 <div align="center">
   <h3>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=13&duration=4000&pause=1000&color=02F7E8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+open+to+new+opportunities+%F0%9F%8C%9F;Code+%E2%80%A2+Coffee+%E2%80%A2+Repeat+%E2%98%95%F0%9F%94%84;Happy+Coding!+%F0%9F%92%BB%E2%9C%A8" alt="Closing message" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=1000&color=02F7E8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+open+to+new+opportunities+%F0%9F%8C%9F;Code+%E2%80%A2+Coffee+%E2%80%A2+Repeat+%E2%98%95%F0%9F%94%84;Happy+Coding!+%F0%9F%92%BB%E2%9C%A8" alt="Closing message" />
     </a>
   </h3>
 </div>

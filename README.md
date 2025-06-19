@@ -405,6 +405,9 @@ public class HanLynnAung implements Developer {
   <a href="https://medium.com/@hanlynnaung1997" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E" alt="Medium"/>
   </a>
+  <a href="https://substack.com/@hanlynnaung" target="_blank">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white&labelColor=FF6719" alt="Substack"/>
+  </a>
 </div>
 
 <br>
@@ -415,11 +418,14 @@ public class HanLynnAung implements Developer {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 </div>
 
-## 📚 Latest Blog Posts
+## 📚 Latest Blog Posts & Newsletters
 
 <div align="center">
   <a href="https://medium.com/@hanlynnaung1997" target="_blank">
     <img src="https://img.shields.io/badge/📝_Read_My_Latest_Posts-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog"/>
+  </a>
+  <a href="https://substack.com/@hanlynnaung" target="_blank">
+    <img src="https://img.shields.io/badge/📰_Subscribe_Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack Newsletter"/>
   </a>
 </div>
 

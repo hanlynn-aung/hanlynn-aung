@@ -206,10 +206,28 @@ public class HanLynnAung implements Developer {
   </picture>
 </div>
 
-## 🎨 Skills Visualization
+## 🎨 Development Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hanlynn-aung&theme=tokyonight&bg_color=0D1117&title_color=02F7E8&text_color=ffffff&border_color=30363d&border_radius=10" alt="WakaTime Stats" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>📊 Weekly Development Breakdown</h3>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanlynn-aung&repo=hanlynn-aung&theme=tokyonight&bg_color=0D1117&title_color=02F7E8&text_color=ffffff&border_color=30363d&border_radius=10" alt="Profile Repo" />
+      </td>
+      <td align="center" width="50%">
+        <h3>⚡ Coding Activity</h3>
+        <div align="left">
+          <p>☕ <strong>Java</strong> - Primary backend development</p>
+          <p>🍃 <strong>Spring Boot</strong> - Microservices & APIs</p>
+          <p>⚛️ <strong>React</strong> - Frontend development</p>
+          <p>🐳 <strong>Docker</strong> - Containerization</p>
+          <p>☁️ <strong>AWS</strong> - Cloud deployment</p>
+          <p>📊 <strong>SQL</strong> - Database optimization</p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🌟 Featured Projects
@@ -225,6 +243,37 @@ public class HanLynnAung implements Developer {
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />
         </div>
         <p align="center">Scalable microservices architecture with Spring Boot, Redis, Docker, and Kubernetes</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🎵 Music & Code
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🎧 Coding Playlist Vibes</h3>
+        <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+        <br><br>
+        <div align="left">
+          <p>🎵 <strong>Lo-fi Hip Hop</strong> - Deep focus sessions</p>
+          <p>🎸 <strong>Instrumental Rock</strong> - Problem solving</p>
+          <p>🎹 <strong>Ambient Electronic</strong> - Code reviews</p>
+          <p>🥁 <strong>Upbeat Pop</strong> - Feature development</p>
+        </div>
+      </td>
+      <td align="center" width="50%">
+        <h3>⏰ Coding Schedule</h3>
+        <img src="https://img.shields.io/badge/Schedule-FF6B6B?style=for-the-badge&logo=clock&logoColor=white" alt="Schedule"/>
+        <br><br>
+        <div align="left">
+          <p>🌅 <strong>6:00 AM - 9:00 AM</strong> - Personal projects</p>
+          <p>☀️ <strong>9:00 AM - 6:00 PM</strong> - Professional work</p>
+          <p>🌆 <strong>7:00 PM - 10:00 PM</strong> - Learning & OSS</p>
+          <p>🌙 <strong>Weekends</strong> - Experimentation</p>
+        </div>
       </td>
     </tr>
   </table>
@@ -286,12 +335,6 @@ public class HanLynnAung implements Developer {
       </td>
     </tr>
   </table>
-</div>
-
-## 🎵 Coding Soundtrack
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l26yvnftfk6pjmrx6uyb5xvqhm&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=02f7e8&bar_color_cover=false" alt="Spotify Now Playing" />
 </div>
 
 ---

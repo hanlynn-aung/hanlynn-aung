@@ -27,11 +27,23 @@
 
 ## 🎯 About Me
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="100" />
-  <br>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="Coding Animation" width="300" />
-</div>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <div align="center">
+          <h3>🚀 Developer Showcase</h3>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="120" />
+          <br><br>
+          <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="Coding Animation" width="400" />
+          <br><br>
+          <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" alt="Code Matrix" width="400" />
+          <br><br>
+          <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" alt="Developer Working" width="350" />
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="left">
 
 ```java
 @Component
@@ -71,7 +83,15 @@ public class HanLynnAung implements Developer {
 }
 ```
 
-<br clear="right"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" alt="Rocket Launch" width="600" />
+</div>
 
 ## 🌟 Professional Highlights
 

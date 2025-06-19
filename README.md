@@ -115,9 +115,9 @@ public class HanLynnAung implements Developer {
 </div>
 
 **🎯 Key Achievements:**
-- **🔗 Multi-Platform Integration**: Successfully integrated with **4 major systems** (Taw Win Akariz, CTZ Pay, Panamax) improving operational efficiency by **40%**
-- **📊 Data Standardization**: Implemented robust data standardization across platforms, reducing data inconsistencies by **85%**
-- **📈 Quota Tracking System**: Developed real-time tracking for merchant quotas serving **1000+ merchants** with 99.9% accuracy
+- **🔗 Multi-Platform Integration**: Successfully integrated with **4 major systems such as Taw Win Akariz, CTZ Pay, Panamax improving operational efficiency by 90%**
+- **📊 Data Standardization**: Implemented robust data standardization across platforms, **reducing data inconsistencies by 85%**
+- **📈 Quota Tracking System**: Developed real-time tracking for merchant quotas serving **100+ merchants with 99.9% accuracy**
 - **📋 Advanced Reporting**: Built comprehensive reporting system for merchants, retailers, and households enabling data-driven decisions
 - **⏰ On-Time Delivery**: Delivered all project milestones on schedule while maintaining high-quality standards
 
@@ -125,13 +125,13 @@ public class HanLynnAung implements Developer {
 - Architected and developed **RESTful APIs** for core system functionality
 - Designed scalable **quota management system** with real-time updates
 - Implemented **data validation and standardization** protocols
-- Led **system integration** efforts across multiple payment platforms
+- Led **system integration** efforts across multiple platforms
 - Collaborated with **QA teams** for comprehensive testing and quality assurance
 
 ---
 
 ### 🎁 **Loyalty & Rewards Point System**
-*Multi-company rewards platform with advanced analytics*
+*Rewards platform with advanced analytics*
 
 <div align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -142,7 +142,7 @@ public class HanLynnAung implements Developer {
 
 **🎯 Key Achievements:**
 - **🏢 Enterprise Integration**: Delivered fully functional system integrating **G&G, Capital, and Panamax** companies
-- **📊 Data Accuracy Enhancement**: Improved reporting accuracy by **95%**, earning recognition from product, data, and finance teams
+- **📊 Data Accuracy Enhancement**: **Improved reporting accuracy by 95%**, earning recognition from product, data, and finance teams
 - **👥 Successful Mentorship**: Guided **2+ interns**, contributing to their professional growth
 - **🚀 Performance Optimization**: Enhanced system efficiency and reduced processing time by **60%**
 - **✅ Quality Delivery**: Maintained **100% on-time delivery** record without compromising quality standards

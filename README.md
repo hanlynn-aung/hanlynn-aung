@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=02F7E8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+Enthusiast+%E2%98%95;Microservices+Architect+%F0%9F%8F%97%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%8C%9F;From+Myanmar+%F0%9F%87%B2%F0%9F%87%B2+with+%E2%9D%A4%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%93%88" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=13&duration=3000&pause=1000&color=02F7E8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+Enthusiast+%E2%98%95;Building+Scalable+Solutions+%F0%9F%8C%9F;From+Myanmar+%F0%9F%87%B2%F0%9F%87%B2+with+%E2%9D%A4%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%93%88" alt="Typing SVG" />
   </a>
 </div>
 
@@ -38,7 +38,7 @@ public class HanLynnAung implements Developer {
     private String name = "Han Lynn Aung";
     
     @Value("${developer.role}")
-    private String role = "Senior Java Backend Developer";
+    private String role = "Java Backend Developer";
     
     @Value("${developer.location}")
     private String location = "Myanmar 🇲🇲";
@@ -46,8 +46,8 @@ public class HanLynnAung implements Developer {
     @Autowired
     private List<String> currentFocus = Arrays.asList(
         "Spring Boot", "Microservices Architecture", 
-        "React.js", "System Design", "Cloud Technologies",
-        "DevOps", "API Design", "Database Optimization"
+        "React.js", "System Design",
+        "API Design", "Database Optimization"
     );
     
     @Override
@@ -77,22 +77,17 @@ public class HanLynnAung implements Developer {
       <td align="center" width="25%">
         <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" width="60"/>
         <br><strong>Java Expert</strong>
-        <br><sub>5+ Years Experience</sub>
+        <br><sub>2+ Years Experience</sub>
       </td>
       <td align="center" width="25%">
         <img src="https://img.icons8.com/color/96/000000/spring-logo.png" alt="Spring" width="60"/>
         <br><strong>Spring Ecosystem</strong>
-        <br><sub>Boot, Security, Data</sub>
+        <br><sub>Spring Boot, Security, Data</sub>
       </td>
       <td align="center" width="25%">
         <img src="https://img.icons8.com/color/96/000000/api.png" alt="API" width="60"/>
         <br><strong>API Architecture</strong>
         <br><sub>RESTful & GraphQL</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/96/000000/docker.png" alt="Docker" width="60"/>
-        <br><strong>DevOps Ready</strong>
-        <br><sub>Docker & CI/CD</sub>
       </td>
     </tr>
   </table>
@@ -167,7 +162,7 @@ public class HanLynnAung implements Developer {
   <br><br>
   
   ### 🛠️ Development Environment
-  <img src="https://skillicons.dev/icons?i=vscode,intellij,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,intellij&theme=dark" />
   <br>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -230,16 +225,7 @@ public class HanLynnAung implements Developer {
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />
         </div>
-        <p align="center">Scalable microservices architecture with Spring Boot, Docker, and Kubernetes</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">⚛️ React Dashboard</h3>
-        <div align="center">  
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind" height="50" />
-        </div>
-        <p align="center">Modern admin dashboard with React, TypeScript, and Tailwind CSS</p>
+        <p align="center">Scalable microservices architecture with Spring Boot, Redis, Docker, and Kubernetes</p>
       </td>
     </tr>
   </table>
@@ -290,14 +276,9 @@ public class HanLynnAung implements Developer {
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/000000/goal.png" alt="Goals" width="60"/>
-        <br><strong>Master Cloud Architecture</strong>
-        <br><sub>AWS Solutions Architect</sub>
-      </td>
-      <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/000000/open-source.png" alt="Open Source" width="60"/>
         <br><strong>Open Source Contributions</strong>
-        <br><sub>100+ Contributions</sub>
+        <br><sub>40+ Contributions</sub>
       </td>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/000000/learning.png" alt="Learning" width="60"/>

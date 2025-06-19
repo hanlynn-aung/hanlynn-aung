@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=13&duration=3000&pause=1000&color=02F7E8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+Enthusiast+%E2%98%95;Building+Scalable+Solutions+%F0%9F%8C%9F;From+Myanmar+%F0%9F%87%B2%F0%9F%87%B2+with+%E2%9D%A4%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%93%88" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1000&size=14&duration=3000&pause=1000&color=02F7E8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+Enthusiast+%E2%98%95;Building+Scalable+Solutions+%F0%9F%8C%9F;From+Myanmar+%F0%9F%87%B2%F0%9F%87%B2+with+%E2%9D%A4%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%93%88" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,17 +29,11 @@
 
 <div align="center">
   <h3>🚀 Developer Showcase</h3>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="120" />
-  <br><br>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="Coding Animation" width="500" />
 </div>
-
-<br>
-
+ <br>
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" alt="Code Matrix" width="600" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" alt="Code Matrix" width="1000" />
 </div>
-
 <br>
 
 ```java
@@ -80,14 +74,10 @@ public class HanLynnAung implements Developer {
 }
 ```
 
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" alt="Developer Working" width="400" />
-</div>
-
 <br>
 
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" alt="Rocket Launch" width="600" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" alt="Rocket Launch" width="1000" />
 </div>
 
 ## 🌟 Professional Highlights

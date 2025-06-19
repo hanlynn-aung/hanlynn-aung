@@ -97,7 +97,7 @@ public class HanLynnAung {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hanlynn-aung&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=hanlynn-aung&theme=tokyonight&border_radius=10&card_width=500" alt="GitHub Streak" />
 </div>
 
 <br>

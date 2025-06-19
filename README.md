@@ -55,7 +55,7 @@ public class HanLynnAung {
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanlynn-aung&repo=spring-boot-projects&theme=tokyonight&border_radius=10" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanlynn-aung&theme=tokyonight&border_radius=10" />
       </td>
       <td align="center" width="50%">
         <h3>🔭 Current Projects</h3>
@@ -84,7 +84,7 @@ public class HanLynnAung {
   <br><br>
   
   <h3>⚙️ Development Tools</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,intellij,git,github,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,linux,intellij" />
 </div>
 
 <br>
@@ -94,10 +94,7 @@ public class HanLynnAung {
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanlynn-aung&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hanlynn-aung&theme=tokyonight&border_radius=10&card_width=500" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hanlynn-aung&theme=dark&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
 </div>
 
 <br>

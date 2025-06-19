@@ -86,19 +86,19 @@ public class HanLynnAung implements Developer {
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/000000/api.png" alt="API" width="60"/>
-        <br><strong>15+ APIs Developed</strong>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBBWlgI9HVmsqeJfAcacN30sBkLf5OBNDvQQ&s" alt="API" width="70"/>
+        <br><strong>APIs Developed</strong>
         <br><sub>High-performance backend systems</sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/000000/integration.png" alt="Integration" width="60"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHNpron6zEGE3thJzJXeUHOLrLuZc_BYZTFQ&s" alt= "Integration" width= "70" />
         <br><strong>Multi-Platform Integration</strong>
         <br><sub>Seamless system connectivity</sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/000000/mentor.png" alt="Mentorship" width="60"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHB61SMD4bLH8At83RWMwLUVItpvxC0JnuVw&s" alt="Mentorship" width="60"/>
         <br><strong>Team Leadership</strong>
-        <br><sub>Mentored 10+ developers</sub>
+        <br><sub>Mentored 2+ interns</sub>
       </td>
     </tr>
   </table>
@@ -134,16 +134,16 @@ public class HanLynnAung implements Developer {
 *Multi-company rewards platform with advanced analytics*
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-FF9900?style=for-the-badge&logo=microservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Integration-02F7E8?style=for-the-badge&logo=integration&logoColor=white" />
 </div>
 
 **🎯 Key Achievements:**
 - **🏢 Enterprise Integration**: Delivered fully functional system integrating **G&G, Capital, and Panamax** companies
 - **📊 Data Accuracy Enhancement**: Improved reporting accuracy by **95%**, earning recognition from product, data, and finance teams
-- **👥 Successful Mentorship**: Guided **5+ management trainees and interns**, contributing to their professional growth
+- **👥 Successful Mentorship**: Guided **2+ management trainees and interns**, contributing to their professional growth
 - **🚀 Performance Optimization**: Enhanced system efficiency and reduced processing time by **60%**
 - **✅ Quality Delivery**: Maintained **100% on-time delivery** record without compromising quality standards
 
@@ -222,7 +222,7 @@ public class HanLynnAung implements Developer {
   <br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <br><br>
   
@@ -336,16 +336,16 @@ public class HanLynnAung implements Developer {
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
         </div>
-        <p align="center">Government digitization system with multi-platform integration, serving 1000+ merchants with real-time quota tracking</p>
+        <p align="center">Government digitization system with multi-platform integration, serving 100+ merchants with real-time quota tracking</p>
       </td>
       <td width="50%">
-        <h3 align="center">🎁 Multi-Company Loyalty Platform</h3>
+        <h3 align="center">🎁Loyalty And Rewards System</h3>
         <div align="center">  
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
         </div>
-        <p align="center">Enterprise rewards system integrating multiple companies with advanced analytics and 95% improved data accuracy</p>
+        <p align="center">Enterprise rewards system integrating multiple platform with advanced analytics and 95% improved data accuracy</p>
       </td>
     </tr>
   </table>
@@ -385,7 +385,7 @@ public class HanLynnAung implements Developer {
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
-  <h3>💼 Open to: Full-time opportunities • Freelance projects • Technical collaborations</h3>
+  <h3>💼 Open to: Full-time opportunities • Technical collaborations</h3>
   <h4>⚡ Response time: Within 24 hours • 🌍 Available for remote work</h4>
 </div>
 
@@ -437,11 +437,6 @@ public class HanLynnAung implements Developer {
         <img src="https://img.icons8.com/color/96/000000/learning.png" alt="Learning" width="60"/>
         <br><strong>Tech Leadership</strong>
         <br><sub>Mentoring & Speaking</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/000000/cloud.png" alt="Cloud" width="60"/>
-        <br><strong>Cloud Architecture</strong>
-        <br><sub>AWS Solutions Architect</sub>
       </td>
     </tr>
   </table>

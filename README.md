@@ -271,6 +271,7 @@ public class HanLynnAung implements Developer {
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=02F7E8&icon_color=02F7E8&text_color=ffffff&border_color=30363d"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanlynn-aung&layout=compact&langs_count=10&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=02F7E8&text_color=ffffff&border_color=30363d"/>
+ <img src="https://github-readme-streak-stats-eight.vercel.app/?user=hanlynn-aung&theme=tokyonight" alt="GitHub Streak" /></a>
 </div>
 
 <br>

@@ -274,7 +274,7 @@ public class HanLynnAung implements Developer {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hanlynn-aung&theme=dark&border_radius=10&card_width=500&background=0D1117&border=30363d&stroke=02F7E8&ring=02F7E8&fire=FF6B6B&currStreakLabel=02F7E8&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=hanlynn-aung&theme=dark&border_radius=10&card_width=500" alt="GitHub Streak" />
 </div>
 
 <br>

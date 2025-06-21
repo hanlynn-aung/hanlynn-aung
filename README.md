@@ -273,10 +273,6 @@ public class HanLynnAung implements Developer {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanlynn-aung&layout=compact&langs_count=10&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=02F7E8&text_color=ffffff&border_color=30363d"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hanlynn-aung&theme=dark&border_radius=10&card_width=500" alt="GitHub Streak" />
-</div>
-
 <br>
 
 ## 🏆 GitHub Achievements

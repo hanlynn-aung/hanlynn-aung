@@ -372,9 +372,9 @@ public class HanLynnAung implements Developer {
         <img src="https://img.shields.io/badge/Schedule-FF6B6B?style=for-the-badge&logo=clock&logoColor=white" alt="Schedule"/>
         <br><br>
         <div align="left">
-          <p>🌅 <strong>6:00 AM - 9:00 AM</strong> - Personal projects</p>
-          <p>☀️ <strong>9:00 AM - 6:00 PM</strong> - Professional work</p>
-          <p>🌆 <strong>7:00 PM - 10:00 PM</strong> - Learning & OSS</p>
+          <p>🌅 <strong>6:00 AM - 9:00 AM</strong> - Personal Time</p>
+          <p>☀️ <strong>9:00 AM - 6:00 PM</strong> - Professional Work</p>
+          <p>🌆 <strong>9:00 PM - 12:00 PM</strong> - Learning & OSS</p>
           <p>🌙 <strong>Weekends</strong> - Experimentation</p>
         </div>
       </td>
@@ -416,17 +416,6 @@ public class HanLynnAung implements Developer {
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
-</div>
-
-## 📚 Latest Blog Posts & Newsletters
-
-<div align="center">
-  <a href="https://medium.com/@hanlynnaung1997" target="_blank">
-    <img src="https://img.shields.io/badge/📝_Read_My_Latest_Posts-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog"/>
-  </a>
-  <a href="https://substack.com/@hanlynnaung" target="_blank">
-    <img src="https://img.shields.io/badge/📰_Subscribe_Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack Newsletter"/>
-  </a>
 </div>
 
 ## 🎯 2024 Goals

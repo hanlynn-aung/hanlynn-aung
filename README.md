@@ -325,7 +325,7 @@ public class HanLynnAung implements Developer {
     <tr>
       <td align="center" width="50%">
         <h3>📊 Weekly Development Breakdown</h3>
-        <img src="./waka_weekly.svg" alt="WakaTime Weekly Stats" width="600"/>
+        <img src="./waka_weekly.svg" alt="WakaTime Weekly Stats" />
       </td>
       <td align="center" width="50%">
         <h3>⚡ Coding Activity</h3>

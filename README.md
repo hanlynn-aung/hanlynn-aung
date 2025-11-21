@@ -20,12 +20,21 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+  <img src="https://camo.githubusercontent.com/ac98b994f6ec433d4e8f9b45d7fa63e36ed7cb50cf7427c1da5c1988eacbde2d/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837323633" alt="Coder GIF" width="400">
 </div>
 
 <br>
 
 ## 🎯 About Me
+
+Hi! I'm **Han Lynn Aung**, a passionate **Java Backend Developer** from Myanmar 🇲🇲.  
+I specialize in building **scalable microservices**, **REST APIs**, and **enterprise-grade solutions**.  
+Always learning, exploring new technologies, and contributing to open source.  
+
+**💻 Tech Interests:** Java, Spring Boot, Microservices, React.js, AWS, Docker, System Design  
+**🚀 Current Focus:** Building scalable backend systems, improving code quality, and mentoring teams  
+**🌱 Always Learning:** Exploring cloud technologies, DevOps tools, and modern frontend frameworks  
+
 
 <div align="center">
   <h3>🚀 Developer Showcase</h3>
@@ -273,34 +282,35 @@ public class HanLynnAung implements Developer {
 
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-    height="180"
-  />
-  &nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanlynn-aung&layout=compact&langs_count=8&theme=tokyonight&hide_border=false"
-    alt="Top Languages"
-    height="180"
-  />
+  <!-- Row with GitHub Stats and Top Languages -->
+  <div>
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"
+      alt="GitHub Stats"
+      width="380"
+      style="vertical-align: top;"
+    />
+    &nbsp;&nbsp;
+    <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanlynn-aung&layout=compact&langs_count=8&theme=tokyonight&hide_border=false"
+  alt="Top Languages"
+  width="250"
+  style="vertical-align: top; margin: 10px;"
+/>
+  </div>
 
   <br/><br/>
 
+  <!-- GitHub Streak below -->
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=hanlynn-aung&theme=tokyonight&hide_border=false"
     alt="GitHub Streak"
+    width="400"
   />
 
 </div>
 
 <br>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hanlynn-aung&theme=onedark&margin-w=15&margin-h=15&column=6&row=2" alt="GitHub Trophies" />
-</div>
 
 ## 📈 Contribution Insights
 

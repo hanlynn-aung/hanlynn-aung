@@ -321,14 +321,18 @@ public class HanLynnAung implements Developer {
 ## 🎨 Development Activity
 
 <div align="center">
+  <h3>📊 Weekly Development Breakdown</h3>
+</div>
+
+<!-- Full-width WakaTime section -->
+<div align="center">
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</div>
+
+<div align="center">
   <table>
     <tr>
-      <td align="center">
-      <h3>📊 Weekly Development Breakdown</h3>
-      <a href="https://wakatime.com/@018d62f2-1a23-4b97-b02a-90a1985047c9">
-        <img src="https://wakatime.com/badge/user/018d62f2-1a23-4b97-b02a-90a1985047c9.svg" alt="WakaTime Stats" />
-      </a>
-    </td>
       <td align="center" width="50%">
         <h3>⚡ Coding Activity</h3>
         <div align="left">
@@ -343,6 +347,7 @@ public class HanLynnAung implements Developer {
     </tr>
   </table>
 </div>
+
 
 
 ## 🌟 Featured Projects

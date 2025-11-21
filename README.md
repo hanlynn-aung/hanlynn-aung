@@ -325,7 +325,7 @@ public class HanLynnAung implements Developer {
     <tr>
       <td align="center" width="50%">
         <h3>📊 Weekly Development Breakdown</h3>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hanlynn-aung&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+        <img src="./waka_weekly.svg" alt="WakaTime Weekly Stats" width="600"/>
       </td>
       <td align="center" width="50%">
         <h3>⚡ Coding Activity</h3>
@@ -341,6 +341,7 @@ public class HanLynnAung implements Developer {
     </tr>
   </table>
 </div>
+
 
 ## 🌟 Featured Projects
 

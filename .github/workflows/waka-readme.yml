@@ -3,17 +3,29 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # daily at 12 AM UTC
+    - cron: "0 0 * * *"
+  repository_dispatch:
+    types: [update-waka]  # matches the event-type from the other repo
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SECTION_NAME: waka        # Must match your <!--START_SECTION:waka-->
-          SHOW_TITLE: true          # optional, shows "WakaTime Stats"
-          TIME_RANGE: all_time      # options: last_7_days, last_30_days, last_6_months, last_year, all_time
-          SHOW_TOTAL: true          # optional, shows total coding time
-          LANG_COUNT: 5             # optional, top 5 languages
+          SECTION_NAME: waka
+          SHOW_TITLE: true
+          TIME_RANGE: all_time
+          SHOW_TOTAL: true
+          LANG_COUNT: 5
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update WakaTime stats" || echo "No changes to commit"
+          git push

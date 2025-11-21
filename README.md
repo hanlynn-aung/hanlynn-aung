@@ -282,7 +282,7 @@ public class HanLynnAung implements Developer {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hanlynn-aung&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Reviews,Issues" />
+ [![trophy](https://github-profile-trophy.vercel.app/?username=hanlynn-aung&theme=onedark)](https://github.com/hanlynn-aung/github-profile-trophy)
 </div>
 
 ## 📈 Contribution Insights

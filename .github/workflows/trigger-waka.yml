@@ -1,0 +1,17 @@
+name: Trigger Waka Readme Update
+
+on:
+  push:
+    branches:
+      - main  # or your target branch
+
+jobs:
+  trigger-waka-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send repository_dispatch to Waka README repo
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          repository: hanlynn-aung/hanlynn-aung  # no leading slash
+          event-type: update-waka

@@ -10,18 +10,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout the repository with write permission
+      # 1️⃣ Checkout repository with push permission
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: true  # important to allow pushing
+          persist-credentials: true  # ✅ crucial to allow git push
 
-      # Step 2: Download WakaTime weekly stats SVG
+      # 2️⃣ Download WakaTime weekly stats SVG
       - name: Download WakaTime Weekly Stats
         run: |
           curl -o waka_weekly.svg https://wakatime.com/share/@hanlynn-aung/weekly.svg
 
-      # Step 3: Commit changes if SVG has been updated
+      # 3️⃣ Commit and push changes
       - name: Commit and push changes
         run: |
           git config --local user.name "github-actions[bot]"
@@ -29,5 +29,3 @@ jobs:
           git add waka_weekly.svg
           git commit -m "Update WakaTime weekly stats" || echo "No changes to commit"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

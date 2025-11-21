@@ -30,43 +30,46 @@
 <div align="center">
   <h3>🚀 Developer Showcase</h3>
 </div>
- <br>
+
+<br>
+
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" alt="Code Matrix" width="1000" />
 </div>
+
 <br>
 
 ```java
 @Component
 @Profile("production")
 public class HanLynnAung implements Developer {
-    
+
     @Value("${developer.name}")
     private String name = "Han Lynn Aung";
-    
+
     @Value("${developer.role}")
     private String role = "Java Backend Developer";
-    
+
     @Value("${developer.location}")
     private String location = "Myanmar 🇲🇲";
-    
+
     @Autowired
     private List<String> currentFocus = Arrays.asList(
-        "Spring Boot", "Microservices Architecture", 
+        "Spring Boot", "Microservices Architecture",
         "React.js", "System Design",
         "API Design", "Database Optimization"
     );
-    
+
     @Override
     public String getAmbition() {
         return "Building enterprise-grade solutions that scale globally! 🌍";
     }
-    
+
     @Override
     public boolean isAvailableForOpportunities() {
-        return true; // Always ready for new challenges! 💪
+        return true;
     }
-    
+
     @PostConstruct
     public void init() {
         System.out.println("🚀 Ready to code amazing things!");
@@ -87,11 +90,11 @@ public class HanLynnAung implements Developer {
     <tr>
       <td align="center" width="33%">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBBWlgI9HVmsqeJfAcacN30sBkLf5OBNDvQQ&s" alt="API" width="70"/>
-        <br><strong>APIs Developed</strong>
+        <br><strong>RESTful APIs Developed</strong>
         <br><sub>High-performance backend systems</sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHNpron6zEGE3thJzJXeUHOLrLuZc_BYZTFQ&s" alt= "Integration" width= "70" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHNpron6zEGE3thJzJXeUHOLrLuZc_BYZTFQ&s" alt="Integration" width="70" />
         <br><strong>Multi-Platform Integration</strong>
         <br><sub>Seamless system connectivity</sub>
       </td>
@@ -104,7 +107,7 @@ public class HanLynnAung implements Developer {
   </table>
 </div>
 
-### 🏗️ **Edible Oil E-Governance System**
+### 🏗️ Edible Oil E-Governance System
 *Enterprise-scale government digitization project*
 
 <div align="center">
@@ -115,22 +118,22 @@ public class HanLynnAung implements Developer {
 </div>
 
 **🎯 Key Achievements:**
-- **🔗 Multi-Platform Integration**: Successfully integrated with **4 major systems such as Taw Win Akariz, CTZ Pay, Panamax improving operational efficiency by 90%**
-- **📊 Data Standardization**: Implemented robust data standardization across platforms, **reducing data inconsistencies by 85%**
-- **📈 Quota Tracking System**: Developed real-time tracking for merchant quotas serving **100+ merchants with 99.9% accuracy**
+- **🔗 Multi-Platform Integration**: Successfully integrated with 4 major systems including Taw Win Akariz, CTZ Pay, and Panamax, improving operational efficiency by 90%
+- **📊 Data Standardization**: Implemented robust data standardization across platforms, reducing data inconsistencies by 85%
+- **📈 Quota Tracking System**: Developed real-time tracking for merchant quotas serving 100+ merchants with 99.9% accuracy
 - **📋 Advanced Reporting**: Built comprehensive reporting system for merchants, retailers, and households enabling data-driven decisions
 - **⏰ On-Time Delivery**: Delivered all project milestones on schedule while maintaining high-quality standards
 
 **🛠️ Technical Responsibilities:**
-- Architected and developed **RESTful APIs** for core system functionality
-- Designed scalable **quota management system** with real-time updates
-- Implemented **data validation and standardization** protocols
-- Led **system integration** efforts across multiple platforms
-- Collaborated with **QA teams** for comprehensive testing and quality assurance
+- Architected and developed RESTful APIs for core system functionality
+- Designed scalable quota management system with real-time updates
+- Implemented data validation and standardization protocols
+- Led system integration efforts across multiple platforms
+- Collaborated with QA teams for comprehensive testing and quality assurance
 
 ---
 
-### 🎁 **Loyalty & Rewards Point System**
+### 🎁 Loyalty & Rewards Point System
 *Rewards platform with advanced analytics*
 
 <div align="center">
@@ -141,18 +144,18 @@ public class HanLynnAung implements Developer {
 </div>
 
 **🎯 Key Achievements:**
-- **🏢 Enterprise Integration**: Delivered fully functional system integrating **G&G, Capital, and Panamax** companies
-- **📊 Data Accuracy Enhancement**: **Improved reporting accuracy by 95%**, earning recognition from product, data, and finance teams
-- **👥 Successful Mentorship**: Guided **2+ interns**, contributing to their professional growth
-- **🚀 Performance Optimization**: Enhanced system efficiency and reduced processing time by **60%**
-- **✅ Quality Delivery**: Maintained **100% on-time delivery** record without compromising quality standards
+- **🏢 Enterprise Integration**: Delivered fully functional system integrating G&G, Capital, and Panamax companies
+- **📊 Data Accuracy Enhancement**: Improved reporting accuracy by 95%, earning recognition from product, data, and finance teams
+- **👥 Successful Mentorship**: Guided 2+ interns, contributing to their professional growth
+- **🚀 Performance Optimization**: Enhanced system efficiency and reduced processing time by 60%
+- **✅ Quality Delivery**: Maintained 100% on-time delivery record without compromising quality standards
 
 **🛠️ Technical Responsibilities:**
-- Developed **scalable APIs** for loyalty point management and redemption
-- Implemented **cross-platform data synchronization** for seamless user experience
-- Built **comprehensive reporting dashboard** with real-time analytics
-- Conducted **thorough QA collaboration** ensuring robust system performance
-- Established **knowledge sharing sessions** for team skill development
+- Developed scalable APIs for loyalty point management and redemption
+- Implemented cross-platform data synchronization for seamless user experience
+- Built comprehensive reporting dashboard with real-time analytics
+- Conducted thorough QA collaboration ensuring robust system performance
+- Established knowledge sharing sessions for team skill development
 
 ---
 
@@ -203,8 +206,8 @@ public class HanLynnAung implements Developer {
         <h3>🔭 Current Focus Areas</h3>
         <div align="left">
           <p>🏗️ <strong>Microservices Architecture</strong> - Building scalable distributed systems</p>
-          <p>⚛️ <strong>React.js Ecosystem</strong> - Learning Modern frontend development</p>
-          <p>☁️ <strong>Cloud Technologies</strong> - Learning AWS, Docker, Kubernetes</p>
+          <p>⚛️ <strong>React.js Ecosystem</strong> - Modern frontend development</p>
+          <p>☁️ <strong>Cloud Technologies</strong> - AWS, Docker, Kubernetes</p>
           <p>🌱 <strong>Open Source</strong> - Contributing to community projects</p>
           <p>📚 <strong>System Design</strong> - Scalable architecture patterns</p>
         </div>
@@ -216,16 +219,16 @@ public class HanLynnAung implements Developer {
 ## 💻 Tech Arsenal
 
 <div align="center">
-  
+
   ### 🎯 Backend Mastery
   <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,hibernate&theme=dark" />
   <br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <br><br>
-  
+
   ### 🗄️ Database & Storage
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis&theme=dark" />
   <br>
@@ -234,7 +237,7 @@ public class HanLynnAung implements Developer {
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <br><br>
-  
+
   ### 🌐 Frontend & Web Technologies
   <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,bootstrap,tailwind&theme=dark" />
   <br>
@@ -242,7 +245,7 @@ public class HanLynnAung implements Developer {
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <br><br>
-  
+
   ### ⚙️ DevOps & Tools
   <img src="https://skillicons.dev/icons?i=docker,aws,git,github,jenkins,linux&theme=dark" />
   <br>
@@ -251,17 +254,17 @@ public class HanLynnAung implements Developer {
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <br><br>
-  
+
   ### 🛠️ Development Environment
   <img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" height="50" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" height="50" />
   <br>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  
+
 </div>
 
 <br>
@@ -269,12 +272,26 @@ public class HanLynnAung implements Developer {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=02F7E8&icon_color=02F7E8&text_color=ffffff&border_color=30363d" style="width: 400px;" />
+
   <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanlynn-aung&layout=compact&langs_count=10&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=02F7E8&text_color=ffffff&border_color=30363d"
-  style="width: 300px;"
-/>
- <img src="https://github-readme-streak-stats-eight.vercel.app/?user=hanlynn-aung&theme=tokyonight" alt="GitHub Streak" /></a>
+    src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+    height="180"
+  />
+  &nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanlynn-aung&layout=compact&langs_count=8&theme=tokyonight&hide_border=false"
+    alt="Top Languages"
+    height="180"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=hanlynn-aung&theme=tokyonight&hide_border=false"
+    alt="GitHub Streak"
+  />
+
 </div>
 
 <br>
@@ -282,13 +299,13 @@ public class HanLynnAung implements Developer {
 ## 🏆 GitHub Achievements
 
 <div align="center">
- [![trophy](https://github-profile-trophy.vercel.app/?username=hanlynn-aung&theme=onedark)](https://github.com/hanlynn-aung/github-profile-trophy)
+  <img src="https://github-profile-trophy.vercel.app/?username=hanlynn-aung&theme=onedark&margin-w=15&margin-h=15&column=6&row=2" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Insights
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanlynn-aung&theme=tokyo-night&bg_color=0D1117&color=02F7E8&line=FF6B6B&point=02F7E8&area=true&hide_border=true&custom_title=Han%20Lynn%20Aung's%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanlynn-aung&theme=tokyo-night&bg_color=0D1117&color=02F7E8&line=FF6B6B&point=02F7E8&area=true&hide_border=false&custom_title=Han%20Lynn%20Aung's%20Contribution%20Graph" />
 </div>
 
 ## 🐍 Contribution Snake Animation
@@ -296,6 +313,7 @@ public class HanLynnAung implements Developer {
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hanlynn-aung/hanlynn-aung/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/hanlynn-aung/hanlynn-aung/blob/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://github.com/hanlynn-aung/hanlynn-aung/blob/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
@@ -307,7 +325,7 @@ public class HanLynnAung implements Developer {
     <tr>
       <td align="center" width="50%">
         <h3>📊 Weekly Development Breakdown</h3>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanlynn-aung&repo=hanlynn-aung&theme=tokyonight&bg_color=0D1117&title_color=02F7E8&text_color=ffffff&border_color=30363d&border_radius=10" alt="Profile Repo" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hanlynn-aung&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
       </td>
       <td align="center" width="50%">
         <h3>⚡ Coding Activity</h3>
@@ -331,27 +349,27 @@ public class HanLynnAung implements Developer {
     <tr>
       <td width="50%">
         <h3 align="center">🏛️ E-Governance Oil Distribution</h3>
-        <div align="center">  
+        <div align="center">
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
         </div>
-        <p align="center">Government digitization system with multi-platform integration, serving 100+ merchants with real-time quota tracking</p>
+        <p align="center">Government digitization system with multi-platform integration, serving 100+ merchants with real-time quota tracking and 90% efficiency improvement</p>
       </td>
       <td width="50%">
-        <h3 align="center">🎁Loyalty And Rewards System</h3>
-        <div align="center">  
+        <h3 align="center">🎁 Loyalty & Rewards System</h3>
+        <div align="center">
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
         </div>
-        <p align="center">Enterprise rewards system integrating multiple platform with advanced analytics and 95% improved data accuracy</p>
+        <p align="center">Enterprise rewards platform integrating multiple companies with advanced analytics and 95% improved data accuracy</p>
       </td>
     </tr>
   </table>
 </div>
 
-## 🎵 Music & Code
+## 🎵 Beyond The Code
 
 <div align="center">
   <table>
@@ -372,20 +390,20 @@ public class HanLynnAung implements Developer {
         <img src="https://img.shields.io/badge/Schedule-FF6B6B?style=for-the-badge&logo=clock&logoColor=white" alt="Schedule"/>
         <br><br>
         <div align="left">
-          <p>🌅 <strong>6:00 AM - 9:00 AM</strong> - Personal Time</p>
-          <p>☀️ <strong>9:00 AM - 6:00 PM</strong> - Professional Work</p>
-          <p>🌆 <strong>9:00 PM - 12:00 PM</strong> - Learning & OSS</p>
-          <p>🌙 <strong>Weekends</strong> - Experimentation</p>
+          <p>🌅 <strong>6:00 AM - 9:00 AM</strong> - Personal development</p>
+          <p>☀️ <strong>9:00 AM - 6:00 PM</strong> - Professional work</p>
+          <p>🌆 <strong>9:00 PM - 12:00 AM</strong> - Learning & OSS</p>
+          <p>🌙 <strong>Weekends</strong> - Side projects & experimentation</p>
         </div>
       </td>
     </tr>
   </table>
 </div>
 
-## 🤝 Let's Connect & Collaborate!
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
-  <h3>💼 Open to: Full-time opportunities • Technical collaborations</h3>
+  <h3>💼 Open to: Full-time opportunities • Freelance projects • Technical collaborations</h3>
   <h4>⚡ Response time: Within 24 hours • 🌍 Available for remote work</h4>
 </div>
 
@@ -418,17 +436,17 @@ public class HanLynnAung implements Developer {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 </div>
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <img src="https://img.icons8.com/color/96/000000/open-source.png" alt="Open Source" width="60"/>
-        <br><strong>Open Source Contributions</strong>
-        <br><sub>40+ Contributions</sub>
+        <br><strong>Open Source</strong>
+        <br><sub>50+ Contributions</sub>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <img src="https://img.icons8.com/color/96/000000/learning.png" alt="Learning" width="60"/>
         <br><strong>Tech Leadership</strong>
         <br><sub>Mentoring & Speaking</sub>
@@ -451,5 +469,4 @@ public class HanLynnAung implements Developer {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
 
-<!-- Invisible stats for SEO -->
 <img src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung&show_icons=true&count_private=true&hide=issues&theme=transparent" width="0" height="0" alt="Stats" />

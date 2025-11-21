@@ -323,10 +323,12 @@ public class HanLynnAung implements Developer {
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <h3>📊 Weekly Development Breakdown</h3>
-        <img src="./waka_weekly.svg" alt="WakaTime Weekly Stats" />
-      </td>
+      <td align="center">
+      <h3>📊 Weekly Development Breakdown</h3>
+      <a href="https://wakatime.com/@018d62f2-1a23-4b97-b02a-90a1985047c9">
+        <img src="https://wakatime.com/badge/user/018d62f2-1a23-4b97-b02a-90a1985047c9.svg" alt="WakaTime Stats" />
+      </a>
+    </td>
       <td align="center" width="50%">
         <h3>⚡ Coding Activity</h3>
         <div align="left">

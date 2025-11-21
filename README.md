@@ -327,7 +327,20 @@ public class HanLynnAung implements Developer {
 <!-- Full-width WakaTime section -->
 <div align="center">
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+From: 31 January 2024 - To: 20 November 2025
+
+Total Time: 214 hrs 48 mins
+
+Java                                   195 hrs 32 mins ██████████████████████▓░░   91.02 %
+SQL                                    7 hrs 44 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+YAML                                   4 hrs 14 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Log                                    2 hrs 21 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+XML                                    2 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+```
+
+<!--END_SECTION:waka-->
 </div>
 
 <div align="center">

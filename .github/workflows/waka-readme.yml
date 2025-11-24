@@ -3,16 +3,18 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # daily at midnight UTC
   repository_dispatch:
-    types: [update-waka]  # matches the event-type from the other repo
+    types: [update-waka]  # triggered by other repo dispatch
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+      # Checkout the repository
       - uses: actions/checkout@v3
 
+      # Run WakaTime README action
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -22,11 +24,23 @@ jobs:
           SHOW_TOTAL: true
           LANG_COUNT: 5
 
-      - name: Commit changes
+      # Commit and push changes safely
+      - name: Commit and push changes
         run: |
+          # Configure Git for Actions
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+
+          # Pull remote changes first to prevent push conflicts
+          git pull --rebase origin main
+
+          # Stage changes
           git add README.md
-          git commit -m "Update WakaTime stats" || echo "No changes to commit"
-          git pull --rebase origin main  # Pull remote changes first
-          git push
+
+          # Only commit and push if there are changes
+          if ! git diff --cached --quiet; then
+            git commit -m "Update WakaTime stats"
+            git push
+          else
+            echo "No changes to commit, skipping push"
+          fi

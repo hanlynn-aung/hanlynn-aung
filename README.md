@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hanlynn-aung.hanlynn-aung&color=0891b2&style=flat-square&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=hanlynn-aung&label=Profile%20views&color=0891b2&style=flat-square" alt="hanlynn-aung" />
-  <img src="https://img.shields.io/github/followers/hanlynn-aung?label=Followers&style=flat-square&color=0891b2&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/hanlynn-aung?label=Stars&style=flat-square&color=0891b2&logo=github" alt="GitHub stars" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hanlynn-aung.hanlynn-aung&color=1a1b27&style=flat-square&logo=github&labelColor=1a1b27" />
+  <img src="https://komarev.com/ghpvc/?username=hanlynn-aung&label=Profile%20views&color=1a1b27&style=flat-square&labelColor=24283b" alt="hanlynn-aung" />
+  <img src="https://img.shields.io/github/followers/hanlynn-aung?label=Followers&style=flat-square&color=1a1b27&labelColor=24283b&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/hanlynn-aung?label=Stars&style=flat-square&color=1a1b27&labelColor=24283b&logo=github" alt="GitHub stars" />
 </div>
 
 <br>

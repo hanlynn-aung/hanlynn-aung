@@ -187,25 +187,25 @@
 ## 📊 GitHub Analytics & Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=ffffff&include_all_commits=true&count_private=true&card_width=500" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung" alt="GitHub Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanlynn-aung&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&card_width=450" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanlynn-aung&layout=compact" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hanlynn-aung&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&currStreakLabel=667eea&currStreakNum=ffffff&sideNums=667eea&sideLabels=888888&dates=888888" alt="GitHub Streak" width="550" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hanlynn-aung" alt="GitHub Streak" width="550" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanlynn-aung&theme=tokyo-night&bg_color=0D1117&color=667eea&line=764ba2&point=667eea&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanlynn-aung&theme=tokyo-night" alt="Contribution Graph" />
 </div>
 
 ---

@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+Enterprise+Solutions+%F0%9F%9A%80;Microservices+%26+API+Architecture+%E2%98%95;Scalable+Backend+Systems+%F0%9F%8F%97%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%93%88" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=Building+Enterprise+Solutions+%F0%9F%9A%80;Microservices+%26+API+Architecture+%E2%98%95;Scalable+Backend+Systems+%F0%9F%8F%97%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%93%88" alt="Typing SVG" />
   </a>
 </div>
 
@@ -460,7 +460,7 @@ XML                                    2 hrs           ▒░░░░░░░�
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Open+to+exciting+opportunities+%F0%9F%8C%9F;Code+%E2%80%A2+Coffee+%E2%80%A2+Repeat+%E2%98%95%F0%9F%94%84;Happy+Coding!+%F0%9F%92%BB%E2%9C%A8" alt="Closing message" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Open+to+exciting+opportunities+%F0%9F%8C%9F;Code+%E2%80%A2+Coffee+%E2%80%A2+Repeat+%E2%98%95%F0%9F%94%84;Happy+Coding!+%F0%9F%92%BB%E2%9C%A8" alt="Closing message" />
   </a>
 </div>
 

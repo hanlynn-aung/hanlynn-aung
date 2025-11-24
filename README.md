@@ -183,30 +183,27 @@
 </div>
 
 ---
-
 ## 📊 GitHub Analytics & Insights
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung" alt="GitHub Stats" />
-</div>
+<table>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung&theme=tokyonight" alt="GitHub Stats" width="380"/>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanlynn-aung&layout=compact&theme=tokyonight" alt="Top Languages" width="380"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanlynn-aung&theme=dark" alt="GitHub Streak" width="380"/>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanlynn-aung&theme=tokyo-night" alt="Contribution Graph" width="380"/>
+    </td>
+  </tr>
+</table>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanlynn-aung&layout=compact" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hanlynn-aung" alt="GitHub Streak" width="550" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanlynn-aung&theme=tokyo-night" alt="Contribution Graph" />
-</div>
 
 ---
 

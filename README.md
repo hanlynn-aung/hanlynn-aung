@@ -286,7 +286,7 @@ XML                                    2 hrs           ▒░░░░░░░�
             ✅ 100+ merchants served<br>
             ✅ 99.9% accuracy tracking<br>
             ✅ 90% efficiency improvement<br>
-            ✅ 4-system integration
+            ✅ 2-system integration
           </p>
         </div>
       </td>

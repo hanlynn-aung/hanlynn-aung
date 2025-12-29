@@ -191,7 +191,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung&theme=tokyonight" alt="GitHub Stats" width="380"/>
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanlynn-aung&layout=compact&theme=tokyonight" alt="Top Languages" width="380"/>
+     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanlynn-aung&show_icons=true&theme=radical)
     </td>
   </tr>
   <tr>

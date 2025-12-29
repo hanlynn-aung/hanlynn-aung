@@ -185,24 +185,26 @@
 ---
 ## 📊 GitHub Analytics & Insights
 
-<table>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung&theme=tokyonight" alt="GitHub Stats" width="380"/>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung&show_icons=true&theme=radical" alt="GitHub Stats" width="380"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanlynn-aung&theme=dark" alt="GitHub Streak" width="380"/>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanlynn-aung&theme=tokyo-night" alt="Contribution Graph" width="380"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%" style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung&theme=tokyonight" alt="GitHub Stats" width="100%" style="max-width: 400px;"/>
+      </td>
+      <td align="center" width="50%" style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung&show_icons=true&theme=radical" alt="GitHub Stats" width="100%" style="max-width: 400px;"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" style="padding: 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanlynn-aung&theme=dark" alt="GitHub Streak" width="100%" style="max-width: 400px;"/>
+      </td>
+      <td align="center" width="50%" style="padding: 10px;">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanlynn-aung&theme=tokyo-night" alt="Contribution Graph" width="100%" style="max-width: 400px;"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ---

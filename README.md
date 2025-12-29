@@ -182,27 +182,6 @@
 
 </div>
 
----
-## 📊 GitHub Analytics & Insights
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="50%" style="padding: 10px;">
-        <img src="https://img.shields.io/github/followers/hanlynn-aung?style=social&logo=github" alt="GitHub Followers" />
-      </td>
-      <td align="center" width="50%" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/GitHub-hanlynn--aung-blue?style=social&logo=github" alt="GitHub Profile" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2" style="padding: 10px;">
-        <img src="https://camo.githubusercontent.com/3249959dd30155d980ffaf132883e6fcc70fbb8f94989394301dcd14a1b32735/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d68616e6c796e6e2d61756e67267468656d653d746f6b796f2d6e69676874" alt="Contribution Graph" width="100%" style="max-width: 800px;"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 ---
 
@@ -465,5 +444,3 @@ XML                                    2 hrs           ▒░░░░░░░�
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea&color=100:764ba2&height=120&section=footer&animation=fadeIn"/>
 </div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung&show_icons=true&count_private=true&hide=issues&theme=transparent" width="0" height="0" alt="Stats" />

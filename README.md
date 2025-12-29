@@ -191,7 +191,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung&theme=tokyonight" alt="GitHub Stats" width="380"/>
     </td>
     <td align="center" style="padding: 10px;">
-     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanlynn-aung&show_icons=true&theme=radical)
+      <img src="https://github-readme-stats.vercel.app/api?username=hanlynn-aung&show_icons=true&theme=radical" alt="GitHub Stats" width="380"/>
     </td>
   </tr>
   <tr>

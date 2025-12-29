@@ -188,6 +188,16 @@
 ## 🎨 Development Activity
 
 <div align="center">
+  <img 
+    src="https://github.com/hanlynn-aung/hanlynn-aung/blob/main/profile-3d-contrib/profile-night-rainbow.svg"
+    alt="3D GitHub Contribution Graph"
+    width="800"
+  />
+</div>
+
+<br/>
+
+<div align="center">
   <h3>📊 Weekly Code Breakdown</h3>
 </div>
 

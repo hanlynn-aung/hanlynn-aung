@@ -74,7 +74,7 @@
             <ul>
               <li>🔗 <strong>Multi-Platform Integration</strong> - 4 major systems (Taw Win Akariz, CTZ Pay, Panamax)</li>
               <li>📊 <strong>90% Efficiency Gain</strong> - Automated workflows & data flow</li>
-              <li>📈 <strong>Quota Tracking</strong> - Real-time system serving 100+ merchants (99.9% accuracy)</li>
+              <li>📈 <strong>Quota Tracking</strong> - Real-time system serving 100+ merchants (90% accuracy)</li>
               <li>📋 <strong>Advanced Reporting</strong> - Merchants, retailers, households dashboards</li>
               <li>✅ <strong>On-Time Delivery</strong> - All milestones completed on schedule</li>
             </ul>
@@ -95,7 +95,7 @@
             <p><strong>🎯 Key Achievements:</strong></p>
             <ul>
               <li>🏢 <strong>Enterprise Integration</strong> - G&G, Capital, Panamax systems</li>
-              <li>📊 <strong>95% Accuracy</strong> - Improved reporting with recognition from teams</li>
+              <li>📊 <strong>90% Accuracy</strong> - Improved reporting with recognition from teams</li>
               <li>👥 <strong>Team Mentorship</strong> - Guided 2+ interns to success</li>
               <li>🚀 <strong>60% Performance Gain</strong> - Enhanced efficiency & reduced latency</li>
               <li>✅ <strong>100% On-Time</strong> - Consistent delivery without quality compromise</li>

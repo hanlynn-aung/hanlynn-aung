@@ -391,7 +391,7 @@ XML                                    2 hrs           ▒░░░░░░░�
     </tr>
   </table>
 
-  <h4 style="color: #667eea; margin-top: 30px;">⚡ Response Time: Within 24 hours</h4>
+  <h4 style="color: #667eea; margin-top: 30px;">⚡ Response Time: Within 48 hours</h4>
 
   <br>
 

@@ -178,7 +178,7 @@
 <br><br>
 
 ### 🛠️ Tools & IDEs
-<img src="https://skillicons.dev/icons?i=vscode,intellij,postman,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,git&theme=dark" />
 
 </div>
 

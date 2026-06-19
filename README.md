@@ -373,7 +373,6 @@ XML                                    2 hrs                 ▒░░░░░�
           <div style="text-align: center; margin: 15px 0;">
             <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="40" />
             <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="40" />
-            <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="40" />
           </div>
           <hr style="border: 1px solid rgba(255,255,255,0.2);">
           <p style="font-size: 13px; text-align: left; line-height: 1.6;">
@@ -391,7 +390,6 @@ XML                                    2 hrs                 ▒░░░░░�
           <div style="text-align: center; margin: 15px 0;">
             <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="40" />
             <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="40" />
-            <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="40" />
           </div>
           <hr style="border: 1px solid rgba(255,255,255,0.2);">
           <p style="font-size: 13px; text-align: left; line-height: 1.6;">

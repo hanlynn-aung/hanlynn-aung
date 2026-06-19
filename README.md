@@ -106,7 +106,7 @@
           <div style="margin-top: 10px;">
             <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" height="20"/>
             <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" height="20"/>
-            <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" height="20"/>
+            <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" height="20"/>
           </div>
         </div>
       </td>
@@ -123,7 +123,7 @@
           </div>
           <div style="margin-top: 10px;">
             <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" height="20"/>
-            <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="20"/>
+            <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" height="20"/>
             <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" height="20"/>
           </div>
         </div>
@@ -217,7 +217,7 @@
         <div style="background: rgba(102, 126, 234, 0.1); padding: 25px; border-radius: 12px; border-left: 4px solid #667eea;">
           <img src="https://img.icons8.com/color/80/000000/java-coffee-cup-logo.png" alt="Java" width="60"/>
           <h4>Java Mastery</h4>
-          <p>2+ Years<br>Production Experience</p>
+          <p>4+ Years<br>Production Experience</p>
         </div>
       </td>
       <td align="center" width="25%">
@@ -252,12 +252,12 @@
 <div align="center">
 
 ### 🚀 Backend Development
-<img src="https://skillicons.dev/icons?i=java,spring,maven,gradle&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,kafka,rabbitmq&theme=dark" />
 
 <br><br>
 
 ### 🗄️ Database & Caching
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,oracle&theme=dark" />
 
 <br><br>
 
@@ -267,23 +267,13 @@
 <br><br>
 
 ### ⚙️ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,githubactions,prometheus,grafana,nginx&theme=dark" />
 
 <br><br>
 
 ### 🛠️ Tools & IDEs
 <img src="https://skillicons.dev/icons?i=vscode,postman,git&theme=dark" />
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hanlynn-aung&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-  </a>
 </div>
 
 ---
@@ -381,7 +371,7 @@ XML                                    2 hrs                 ▒░░░░░�
           <p style="font-size: 14px; opacity: 0.9;">Core banking integration with high-reliability transaction processing</p>
           <div style="text-align: center; margin: 15px 0;">
             <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="40" />
-            <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" />
+            <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="40" />
             <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="40" />
           </div>
           <hr style="border: 1px solid rgba(255,255,255,0.2);">
@@ -399,7 +389,7 @@ XML                                    2 hrs                 ▒░░░░░�
           <p style="font-size: 14px; opacity: 0.9;">Centralized dispute management with automated workflows</p>
           <div style="text-align: center; margin: 15px 0;">
             <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="40" />
-            <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" />
+            <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="40" />
             <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="40" />
           </div>
           <hr style="border: 1px solid rgba(255,255,255,0.2);">
@@ -479,21 +469,6 @@ XML                                    2 hrs                 ▒░░░░░�
         </div>
       </td>
       <td width="33%">
-        <div style="background: rgba(102, 126, 234, 0.1); padding: 25px; border-radius: 12px; border: 2px solid #764ba2;">
-          <h3>🎵 Now Playing</h3>
-          <p><em>Connect your Spotify to show what you're currently listening to!</em></p>
-          <br/>
-          <a href="https://spotify-github-profile.kittinanx.com/api/login" target="_blank">
-            <img src="https://img.shields.io/badge/🔗_Connect_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Connect Spotify"/>
-          </a>
-          <br/><br/>
-          <div align="center">
-            <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=default&show_offline=true&background_color=0d1117&bar_color=667eea&bar_color_cover=true" alt="Spotify Now Playing" width="100%" />
-          </div>
-          <p align="center" style="font-size: 12px; opacity: 0.7;">⚡ Replace <code>YOUR_UID</code> with your Spotify widget UID</p>
-        </div>
-      </td>
-      <td width="33%">
         <div style="background: rgba(102, 126, 234, 0.1); padding: 25px; border-radius: 12px; border: 2px solid #667eea;">
           <h3>⏰ Coding Schedule</h3>
           <img src="https://img.shields.io/badge/Daily_Routine-764ba2?style=for-the-badge&logo=clock&logoColor=white" alt="Schedule"/>
@@ -503,6 +478,29 @@ XML                                    2 hrs                 ▒░░░░░�
             <p>☀️ <strong>9:00 AM - 6:00 PM</strong> → Professional work</p>
             <p>🌆 <strong>9:00 PM - 12:00 AM</strong> → Learning & OSS</p>
             <p>🌙 <strong>Weekends</strong> → Side projects</p>
+          </div>
+        </div>
+      </td>
+      <td width="33%">
+        <div style="background: rgba(102, 126, 234, 0.1); padding: 25px; border-radius: 12px; border: 2px solid #764ba2;">
+          <h3>📚 Bookshelf</h3>
+          <img src="https://img.shields.io/badge/Reading_List-764ba2?style=for-the-badge&logo=bookstack&logoColor=white" alt="Books"/>
+          <br><br>
+          <div align="left">
+            <p><strong>🏗️ System Design & Architecture</strong></p>
+            <p>📘 <em>Designing Data-Intensive Applications</em> — Kleppmann</p>
+            <p>📘 <em>System Design Interview</em> — Xu</p>
+            <p>📘 <em>Clean Architecture</em> — Martin</p>
+            <br>
+            <p><strong>☕ Java & Spring</strong></p>
+            <p>📗 <em>Effective Java</em> — Bloch</p>
+            <p>📗 <em>Spring Start Here</em> — Spilca</p>
+            <p>📗 <em>Java Concurrency in Practice</em> — Goetz</p>
+            <br>
+            <p><strong>🛠️ Craftsmanship</strong></p>
+            <p>📕 <em>Clean Code</em> — Martin</p>
+            <p>📕 <em>The Pragmatic Programmer</em> — Hunt & Thomas</p>
+            <p>📕 <em>Refactoring</em> — Fowler</p>
           </div>
         </div>
       </td>

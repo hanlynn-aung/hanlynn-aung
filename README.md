@@ -105,8 +105,8 @@
           </div>
           <div style="margin-top: 10px;">
             <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" height="20"/>
-            <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" height="20"/>
             <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" height="20"/>
+            <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square&logo=api&logoColor=white" height="20"/>
           </div>
         </div>
       </td>
@@ -124,7 +124,7 @@
           <div style="margin-top: 10px;">
             <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" height="20"/>
             <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" height="20"/>
-            <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" height="20"/>
+            <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square&logo=api&logoColor=white" height="20"/>
           </div>
         </div>
       </td>
@@ -179,6 +179,7 @@
           </div>
           <div style="margin-top: 10px;">
             <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" height="20"/>
+            <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" height="20"/>
             <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" height="20"/>
             <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="20"/>
           </div>

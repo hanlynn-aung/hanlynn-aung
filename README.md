@@ -507,35 +507,7 @@ XML                                    2 hrs                 ▒░░░░░�
   </table>
 </div>
 
----
-
-## 📝 Latest Blog Posts
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td>
-        <div style="background: rgba(102, 126, 234, 0.05); padding: 20px; border-radius: 12px; border-left: 4px solid #667eea;">
-          <p align="center">
-            <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-            &nbsp;
-            <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/>
-          </p>
-          <p align="center"><strong>Thoughts on software engineering, system design, and backend architecture</strong></p>
-          <div align="left">
-            <!-- BLOG-POST-LIST:START -->
-- [HIBERNATE 6 | HIBERNATE ADVANCED
-Implement your primary key as a Record using an IdClass](https://medium.com/@hanlynnaung1997/hibernate-6-hibernate-advanced-implement-your-primary-key-as-a-record-using-an-idclass-172bedc2f8dc?source=rss-a0a3cdee224d------2) - Sat Jun 15 2024 5:12 PM<!-- BLOG-POST-LIST:END -->
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
----
+<br>
 
 ## 🎯 2026 Goals
 

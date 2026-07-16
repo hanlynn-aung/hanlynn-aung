@@ -332,7 +332,7 @@ XML                                    2 hrs                 ▒░░░░░�
     <tr>
       <td width="50%">
         <div style="border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.2);">
-          <a href="https://hanlynnaung-portfolio-74ixsmgju-han-lynn-aung.vercel.app/" target="_blank">
+          <a href="https://terminal-portfolio-five-zeta.vercel.app/" target="_blank">
             <img src="./Han_Lynn_Aung_portfolio.png" alt="Han Lynn Aung Portfolio" style="width: 100%; height: auto; display: block;" />
           </a>
         </div>

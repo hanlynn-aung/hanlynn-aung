@@ -298,7 +298,8 @@ I'm a **Java Backend Engineer** with **4+ years** of production experience build
 </div>
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [HIBERNATE 6 | HIBERNATE ADVANCED
+Implement your primary key as a Record using an IdClass](https://medium.com/@hanlynnaung1997/hibernate-6-hibernate-advanced-implement-your-primary-key-as-a-record-using-an-idclass-172bedc2f8dc?source=rss-a0a3cdee224d------2) - Sat Jun 15 2024 5:12 PM<!-- BLOG-POST-LIST:END -->
 
 > 📡 *Auto-updated from Medium & Substack via GitHub Actions.*
 

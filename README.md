@@ -43,7 +43,7 @@
 
 <img align="right" width="38%" src="https://raw.githubusercontent.com/hanlynn-aung/hanlynn-aung/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 
-I'm a **Java Backend Engineer** with **4+ years** of production experience building **enterprise-grade, high-reliability systems** — from core banking integrations to centralized dispute platforms.
+I'm a **Software Engineer** with **4+ years** of production experience building **enterprise-grade, high-reliability systems** — from core banking integrations to centralized dispute platforms.
 
 - 🏗️ I design **scalable microservices**, **resilient REST APIs**, and **fault-tolerant transaction pipelines**.
 - 🏦 Deep experience in **fintech & banking** domains — concurrency, data integrity, and zero-loss transaction processing.

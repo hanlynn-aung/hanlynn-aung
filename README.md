@@ -4,7 +4,7 @@
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Han%20Lynn%20Aung&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Java%20Developer%20%C2%B7%20Cloud%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Han Lynn Aung" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Han%20Lynn%20Aung&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Java%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Han Lynn Aung" />
 </div>
 
 <div align="center">

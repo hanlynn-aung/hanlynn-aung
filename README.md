@@ -7,49 +7,172 @@
      regenerated every 6 hours (profile-3d.yml).
      ════════════════════════════════════════════════════════════════ -->
 
+<div align="center">
+
 # Han Lynn Aung
 
-**Java Backend Engineer** · Enterprise Fintech & Banking Systems
+### Java Backend Engineer · Enterprise Fintech & Banking Systems
 
 Building scalable backend systems with Java and Spring Boot — microservices, core banking integrations, and fault-tolerant transaction pipelines engineered for zero data loss under heavy concurrency.
 
-Based in Myanmar · Open to collaboration
+`Java` `Spring Boot` `Oracle` `REST APIs` `Microservices`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=flat-square&logo=vercel&logoColor=white)](https://hanlynnaung-portfolio-74ixsmgju-han-lynn-aung.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-667eea?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanlynn-aung/)
-[![Email](https://img.shields.io/badge/Email-667eea?style=flat-square&logo=gmail&logoColor=white)](mailto:hanlynnaung1997@gmail.com)
-[![Medium](https://img.shields.io/badge/Writing-667eea?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@hanlynnaung1997)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanlynn-aung/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=white)](https://terminal-portfolio-five-zeta.vercel.app/)
+[![Medium](https://img.shields.io/badge/Writing-0D1117?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@hanlynnaung1997)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=white)](mailto:hanlynnaung1997@gmail.com)
+
+</div>
 
 ---
 
 ## About
 
-I'm a **Java Backend Engineer** with **3+ years** of production experience building enterprise-grade systems for the fintech and banking domain — from core banking integrations to centralized dispute platforms.
+I'm a **Java Backend Engineer** with **4+ years** of experience building mission-critical banking and enterprise systems — currently working on **core banking integrations and centralized dispute platforms** at [KBZ Bank](https://www.kbzbank.com/en/).
 
-- **Enterprise backend focus** — scalable microservices, resilient REST APIs, and transaction pipelines where data integrity is non-negotiable.
-- **Reliability engineering** — zero-loss failure handling and safe concurrent processing under heavy load.
-- **Mentorship** — guiding interns and management trainees from requirements to production delivery.
-- **Currently deepening** — system design, event-driven architecture, and cloud-native deployment.
+My work sits where data integrity is non-negotiable: designing scalable Spring Boot APIs with a strong focus on concurrency, performance optimization, and zero-loss transaction processing under heavy load.
+
+- **Enterprise backend focus** — scalable microservices, resilient REST APIs, transactional integrity
+- **Reliability engineering** — zero-loss failure handling and safe concurrent processing
+- **Mentorship** — guiding interns and management trainees from requirements to production
+- **Currently deepening** — system design, event-driven architecture, cloud-native deployment
+
+*Based in Yangon, Myanmar · Burmese / English · Open to collaboration*
 
 ---
 
-## Core Stack
+## Tech Stack
 
 | Area | Technologies |
 |---|---|
-| **Languages** | Java · SQL · TypeScript |
-| **Backend** | Spring Boot · Spring Security · Hibernate · REST APIs · Maven · Gradle |
+| **Languages** | Java · JavaScript · TypeScript · SQL |
+| **Backend** | Spring Framework · Spring Boot · Spring Security · Hibernate · REST APIs · Maven · Gradle |
 | **Data** | Oracle · PostgreSQL · MySQL · Redis · MongoDB |
 | **Messaging** | Apache Kafka · RabbitMQ |
 | **Cloud & DevOps** | AWS · Docker · Kubernetes · GitHub Actions · Jenkins · Nginx |
-| **Observability & Testing** | Prometheus · Grafana · JUnit 5 · Mockito · Postman |
-| **Tools** | Git · IntelliJ IDEA · Swagger |
+| **Testing & Observability** | JUnit 5 · Mockito · Postman · Prometheus · Grafana |
+| **Tools** | Git · IntelliJ IDEA · Swagger · Jasper |
 
 **Primary** — Java · Spring Boot · REST API design · Oracle · SQL
 
 **Secondary** — Redis · Kafka · Docker · AWS · PostgreSQL · Git
 
-*Working knowledge* — React · Tailwind CSS · JavaScript · HTML/CSS
+*Working knowledge* — React · Thymeleaf · Tailwind CSS · HTML/CSS
+
+---
+
+## Featured Projects
+
+### 01 · Agency Banking Platform
+
+> Core banking integration with high-reliability transaction processing.
+
+**Problem** — Agency-channel transactions demand strict integrity: a failed transaction must never be lost, even while thousands process concurrently.
+
+**Solution** — A transaction platform integrating core banking services with concurrency-safe processing and guaranteed recovery on failure.
+
+**Architecture** — Spring Boot services over a scalability-oriented Oracle schema designed for large-scale transaction tracking.
+
+**Stack** — `Java · Spring Boot · Oracle`
+
+**Highlights**
+
+- Spearheaded core banking integration with zero data loss on transaction failures
+- Solved complex concurrency challenges for safe simultaneous processing
+- Resolved structural bottlenecks — significantly improved speed and throughput
+- Deployed critical backend services: secure authentication and external notifications
+
+*Built at KBZ Bank — enterprise banking platform · repository not public*
+
+---
+
+### 02 · Dispute & Chargeback Platform
+
+> Centralized dispute ticket system modernizing case management and support workflows.
+
+**Problem** — Dispute and chargeback operations span banking rules, compliance requirements, and multiple internal systems — slow and error-prone when handled manually.
+
+**Solution** — A centralized case-management platform translating banking and compliance requirements into intuitive workflows with automation at every step.
+
+**Architecture** — Spring Boot with Oracle persistence, integrated with enterprise systems through event-driven flows; a single source of truth for disputes across the organization.
+
+**Stack** — `Java · Spring Boot · Oracle`
+
+**Highlights**
+
+- Automated document processing, case escalations, and status notifications
+- Integrated core enterprise systems into a single source of truth for disputes
+- Built real-time dashboards and automated reporting for leadership visibility
+- Streamlined end-to-end workflows across support and operations teams
+
+*Built at KBZ Bank — enterprise banking platform · repository not public*
+
+---
+
+### 03 · Loyalty & Rewards Point System
+
+> Cross-system rewards integration delivered fully on schedule.
+
+**Problem** — Reward data lived across multiple core systems, producing discrepancies and unreliable reporting.
+
+**Solution** — Cross-platform API integration with disciplined coordination across QA, product, data, and finance teams to resolve mismatches before launch.
+
+**Architecture** — REST integrations across G&amp;G, Capital, and Panamax systems built on Spring Boot with MySQL persistence.
+
+**Stack** — `Java · Spring Boot · MySQL · REST APIs`
+
+**Highlights**
+
+- Developed and integrated rewards APIs across three core systems
+- Shipped on schedule — improved reporting accuracy, earning stakeholder recognition
+- Resolved cross-team data discrepancies before launch
+- Mentored interns and trainees throughout delivery
+
+*Built at Capital Diamond Star Group — enterprise rewards platform · repository not public*
+
+---
+
+### 04 · Edible Oil E-Governance
+
+> Quota tracking and distribution management for the edible oil supply chain.
+
+**Highlights**
+
+- Designed a robust quota tracking system — improved merchant accuracy and timeliness
+- Standardized data across platforms; integrated Taw Win Akariz, CTZ Pay, and Panamax
+- Delivered reporting and analysis for merchants, retailers, and households
+
+**Stack** — `Java · Spring Boot · MySQL`
+
+*Built at Capital Diamond Star Group — e-governance platform · repository not public*
+
+---
+
+### 05 · Merchant Portal
+
+> Merchant self-service portal backend.
+
+**Highlights**
+
+- Built backend user-management functionality ensuring secure, efficient operations
+- Implemented report downloads, giving stakeholders timely data access
+- Integrated systems cross-functionally — delivered on deadline with high maintainability
+- Mentored management trainees and interns through delivery
+
+**Stack** — `Java · Spring Boot · Redis`
+
+*Built at Capital Diamond Star Group — enterprise platform · repository not public*
+
+---
+
+## Open Source
+
+| Project | Focus |
+|---|---|
+| [Myanmar-NRC-and-Phone-Number-Validator](https://github.com/hanlynn-aung/Myanmar-NRC-and-Phone-Number-Validator) | Myanmar NRC format and phone number validation |
+| [learning-mircroservice](https://github.com/hanlynn-aung/learning-mircroservice) | Hands-on microservices exploration |
+| [ecom](https://github.com/hanlynn-aung/ecom) | E-commerce project |
+| [social-media](https://github.com/hanlynn-aung/social-media) | Social media application |
 
 ---
 
@@ -65,7 +188,7 @@ I'm a **Java Backend Engineer** with **3+ years** of production experience build
 ### Architecture
 
 - Microservices and distributed systems
-- Event-driven processing with Kafka
+- Event-driven processing with Kafka and RabbitMQ
 - Multi-system enterprise integration
 - Scalable data modeling
 
@@ -78,126 +201,29 @@ I'm a **Java Backend Engineer** with **3+ years** of production experience build
 
 ---
 
-## Featured Projects
-
-### 01 · Agency Banking Platform
-
-Core banking integration with high-reliability transaction processing.
-
-**Problem** — Agency-channel transactions demand strict integrity: a failed transaction must never be lost, even while thousands process concurrently.
-
-**Solution** — A transaction platform integrating core banking services with concurrency-safe processing and guaranteed recovery on failure.
-
-**Architecture** — Spring Boot services over a scalability-oriented Oracle schema. Structural bottleneck analysis drove throughput improvements across the flow.
-
-`Java · Spring Boot · Oracle`
-
-**Highlights**
-
-- Zero data loss on transaction failures
-- Resolved structural bottlenecks — improved speed and throughput
-- Concurrency-safe simultaneous transaction processing
-- Scalable database architecture for large-scale operation volumes
-
-*Built at KBZ Bank — enterprise banking platform; repository not public.*
-
----
-
-### 02 · Dispute & Chargeback Platform
-
-Centralized dispute management with automated workflows.
-
-**Problem** — Dispute and chargeback operations span banking rules, compliance requirements, and multiple internal systems — slow and error-prone when handled manually.
-
-**Solution** — A centralized case-management platform that translates banking and compliance requirements into intuitive workflows with automation at every step.
-
-**Architecture** — Spring Boot with Oracle persistence, connected to enterprise systems through event-driven flows; automated document processing, escalation, and notification services feeding real-time dashboards.
-
-`Java · Spring Boot · Oracle`
-
-**Highlights**
-
-- Streamlined end-to-end case-management workflows
-- Automated document processing, escalations, and status notifications
-- Multi-system enterprise integration
-- Real-time dashboards and automated reporting for leadership
-
-*Built at KBZ Bank — enterprise banking platform; repository not public.*
-
----
-
-### 03 · Loyalty & Rewards Integration
-
-Cross-system rewards integration delivered on schedule.
-
-**Problem** — Reward data lived across multiple core systems, producing discrepancies and unreliable reporting.
-
-**Solution** — Cross-platform API integration with disciplined coordination across QA, product, and finance teams to resolve data mismatches before launch.
-
-**Architecture** — REST integrations across multiple core systems built on Spring Boot with MySQL persistence.
-
-`Java · Spring Boot · MySQL · REST APIs`
-
-**Highlights**
-
-- Integrated APIs across multiple core systems
-- Resolved cross-team data discrepancies
-- Improved reporting accuracy and operational efficiency
-- Mentored interns and trainees through successful delivery
-
-*Built at Capital Diamond Star Group — enterprise rewards platform; repository not public.*
-
----
-
-### 04 · Edible Oil Distribution System
-
-Distribution management for the edible oil supply chain.
-
-`Java · Spring Boot · MySQL`
-
-*Built at Capital Diamond Star Group — enterprise platform; repository not public.*
-
----
-
-### 05 · Merchants Portal
-
-Merchant onboarding and self-service portal.
-
-`Java · Spring Boot · React · MySQL`
-
-*Built at Capital Diamond Star Group — enterprise platform; repository not public.*
-
----
-
-## Open Source & Side Projects
-
-| Project | Focus |
-|---|---|
-| [Myanmar-NRC-and-Phone-Number-Validator](https://github.com/hanlynn-aung/Myanmar-NRC-and-Phone-Number-Validator) | Myanmar NRC format and phone number validation |
-| [learning-mircroservice](https://github.com/hanlynn-aung/learning-mircroservice) | Hands-on microservices exploration |
-| [ecom](https://github.com/hanlynn-aung/ecom) | E-commerce project |
-| [social-media](https://github.com/hanlynn-aung/social-media) | Social media application |
-
----
-
 ## Experience
 
-**Java Backend Engineer** — [KBZ Bank](https://www.kbzbank.com/en/) · 2025 – Present
+**Java Backend Engineer** — [KBZ Bank](https://www.kbzbank.com/en/) · Sep 2025 – Present
 
 - Build and operate microservices for core banking integration and dispute management platforms
 - Design REST APIs for transaction processing integrated with enterprise banking services
 - Mentor interns and management trainees through production deliveries
 
-**Backend Developer** — [Capital Diamond Star Group](https://cdsg.com.mm/) · 2023 – 2025
+**Junior Java Engineer** — [Capital Diamond Star Group](https://cdsg.com.mm/) · Dec 2023 – Sep 2025
 
-- Delivered the cross-system Loyalty & Rewards integration and an Edible Oil Distribution System
-- Built a Merchants Portal (Spring Boot + React) with onboarding and self-service flows
+- Delivered the Loyalty &amp; Rewards integration, Edible Oil E-Governance system, and Merchant Portal backend
 - Developed REST APIs with database optimization for e-governance portals
 - Implemented secure user management systems
 
+**Java Developer — Intern &amp; OJT** — Startin Point / Global Wave · Jul 2022 – Dec 2023
+
+- Built MVC web applications with Spring Framework and Thymeleaf
+
 **Java Developer Bootcamp** — JDC One Stop · 2022
 
-- Completed an intensive one-stop Java developer bootcamp
+- Intensive training in Java, Spring, and Spring Boot
+
+**Education** — University of Technology (Yatanarpon Cyber City) · Meikhtila University
 
 ---
 
@@ -249,8 +275,12 @@ Implement your primary key as a Record using an IdClass](https://medium.com/@han
 
 ## Let's Connect
 
+<div align="center">
+
 Interested in backend engineering, system architecture, or collaboration?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-667eea?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanlynn-aung/)
-[![Email](https://img.shields.io/badge/Email-667eea?style=flat-square&logo=gmail&logoColor=white)](mailto:hanlynnaung1997@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=flat-square&logo=vercel&logoColor=white)](https://hanlynnaung-portfolio-74ixsmgju-han-lynn-aung.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanlynn-aung/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=white)](mailto:hanlynnaung1997@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=white)](https://terminal-portfolio-five-zeta.vercel.app/)
+
+</div>

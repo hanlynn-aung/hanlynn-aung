@@ -88,19 +88,9 @@ Core banking integration with high-reliability transaction processing.
 
 **Solution** — A transaction platform integrating core banking services with concurrency-safe processing and guaranteed recovery on failure.
 
-**Architecture** — Spring Boot services over a scalability-oriented Oracle schema, with Redis on performance-critical paths. Structural bottleneck analysis drove throughput improvements across the flow.
+**Architecture** — Spring Boot services over a scalability-oriented Oracle schema. Structural bottleneck analysis drove throughput improvements across the flow.
 
-```mermaid
-flowchart TB
-    AG["Agency / Channel Apps"] --> API["Agency Banking Service<br/>Java · Spring Boot"]
-    API --> DB[("Oracle<br/>Scalable Transaction Schema")]
-    API --> RD[("Redis")]
-    API --> CB["Core Banking Integration"]
-    CB --> BANK(["Core Banking System"])
-    API -. "failure path" .-> RC["Zero-Loss Recovery"]
-```
-
-`Java · Spring Boot · Oracle · Redis`
+`Java · Spring Boot · Oracle`
 
 **Highlights**
 
@@ -121,20 +111,9 @@ Centralized dispute management with automated workflows.
 
 **Solution** — A centralized case-management platform that translates banking and compliance requirements into intuitive workflows with automation at every step.
 
-**Architecture** — Spring Boot with Oracle persistence, connected to enterprise systems through Kafka-based event flow; automated document processing, escalation, and notification services feeding real-time dashboards.
+**Architecture** — Spring Boot with Oracle persistence, connected to enterprise systems through event-driven flows; automated document processing, escalation, and notification services feeding real-time dashboards.
 
-```mermaid
-flowchart TB
-    BANK["Enterprise Banking Systems"] <--> API["Dispute & Chargeback API<br/>Java · Spring Boot"]
-    API --> DB[("Oracle<br/>Case Data")]
-    API -- "domain events" --> K{{"Apache Kafka"}}
-    K --> DOC["Document Processing"]
-    K --> ESC["Escalation Service"]
-    K --> NTF["Status Notifications"]
-    API --> DASH["Real-time Dashboards & Reporting"]
-```
-
-`Java · Spring Boot · Oracle · Apache Kafka`
+`Java · Spring Boot · Oracle`
 
 **Highlights**
 

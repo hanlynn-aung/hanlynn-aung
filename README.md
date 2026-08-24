@@ -245,23 +245,6 @@ I'm a **Software Engineer** with **4+ years** of production experience building 
 
 > 💡 *Dates and titles above are placeholders — update with your exact roles, companies, and periods.*
 
----
-
-## 🎓 Certifications
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS_Certified-planned-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Oracle Java](https://img.shields.io/badge/Oracle_Certified_Java-planned-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Professional-planned-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker_Certified-planned-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/CKA_Kubernetes-planned-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</div>
-
-> 💡 *Swap `planned` for the year once earned, and link each badge to its credential.*
-
----
 
 ## 🏅 Achievements
 

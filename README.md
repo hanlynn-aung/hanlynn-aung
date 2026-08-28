@@ -246,7 +246,7 @@ My work sits where data integrity is non-negotiable: designing scalable Spring B
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2024 - To: 26 August 2026
+From: 31 January 2024 - To: 27 August 2026
 
 Total Time: 214 hrs 48 mins
 
